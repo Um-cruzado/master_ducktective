@@ -1,0 +1,797 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.985; Version 2009; 64bit' Language: 'pt' Physical Memory: 16329 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Gamer/Desktop/Unity/Ducktective
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59275
+Successfully changed project path to: C:/Users/Gamer/Desktop/Unity/Ducktective
+C:/Users/Gamer/Desktop/Unity/Ducktective
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 26.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path E:/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Gamer/Desktop/Unity/Ducktective/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.6192
+Initialize mono
+Mono path[0] = 'E:/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'E:/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56344
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003621 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 26.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.213 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001148 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.892 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1264 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.7 MB.
+System memory in use after: 74.7 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1724.
+Total: 1.802200 ms (FindLiveObjects: 0.179800 ms CreateObjectMapping: 0.066300 ms MarkObjects: 1.453800 ms  DeleteObjects: 0.101200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/ducktective project/Scripts/inimigos
+  artifactKey: Guid(62073475cc4da884a99c86d3a8eaff70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/inimigos using Guid(62073475cc4da884a99c86d3a8eaff70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab82356abd093b632bdf2a63af8981ee') in 0.005751 seconds
+  Import took 0.133771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 79.036204 seconds.
+  path: Assets/ducktective project/Scripts/inimigos/ratoPatrulhador.cs
+  artifactKey: Guid(57b2039aad58e4a428301833cb7daaed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/inimigos/ratoPatrulhador.cs using Guid(57b2039aad58e4a428301833cb7daaed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a72c6928b6f0382378ad4b966d5ede2') in 0.034592 seconds
+  Import took 0.037355 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000733 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.781 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1258 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.5 MB.
+System memory in use after: 74.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1728.
+Total: 1.539500 ms (FindLiveObjects: 0.107300 ms CreateObjectMapping: 0.030500 ms MarkObjects: 1.307400 ms  DeleteObjects: 0.093500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.849934 seconds.
+  path: Assets/ducktective project/Scripts/inimigos/ratoPatrulhador.cs
+  artifactKey: Guid(57b2039aad58e4a428301833cb7daaed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/inimigos/ratoPatrulhador.cs using Guid(57b2039aad58e4a428301833cb7daaed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feef399630bc53a2a6a3b537687cf6b7') in 0.005585 seconds
+  Import took 0.022793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.436686 seconds.
+  path: Assets/ducktective project/prefabs/Rato.prefab
+  artifactKey: Guid(0b1037d0b4d412f41972d6564f3b597e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/prefabs/Rato.prefab using Guid(0b1037d0b4d412f41972d6564f3b597e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24f4de550cf270d38c5dc0e1c4f1bda9') in 0.405300 seconds
+  Import took 0.416806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017110 seconds.
+  path: Assets/ducktective project/prefabs/Rato.prefab
+  artifactKey: Guid(0b1037d0b4d412f41972d6564f3b597e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/prefabs/Rato.prefab using Guid(0b1037d0b4d412f41972d6564f3b597e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24f4de550cf270d38c5dc0e1c4f1bda9') in 0.013562 seconds
+  Import took 0.017262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 271.164209 seconds.
+  path: Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs
+  artifactKey: Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs using Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f085fa7c2335dc3b773d7a4ff5e65a25') in 0.012636 seconds
+  Import took 0.016638 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001608 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.793 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1258 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.7 MB.
+System memory in use after: 77.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1739.
+Total: 2.020000 ms (FindLiveObjects: 0.128400 ms CreateObjectMapping: 0.046800 ms MarkObjects: 1.773900 ms  DeleteObjects: 0.069600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 465.487888 seconds.
+  path: Assets/ducktective project/prefabs/Rato.prefab
+  artifactKey: Guid(0b1037d0b4d412f41972d6564f3b597e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/prefabs/Rato.prefab using Guid(0b1037d0b4d412f41972d6564f3b597e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e53bc873ab201a9164df20bbb30d6a6') in 0.055997 seconds
+  Import took 0.067304 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000833 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.909 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1258 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.7 MB.
+System memory in use after: 77.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1743.
+Total: 1.528800 ms (FindLiveObjects: 0.129800 ms CreateObjectMapping: 0.037300 ms MarkObjects: 1.292600 ms  DeleteObjects: 0.068000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.563855 seconds.
+  path: Assets/ducktective project/prefabs/Cube (2).prefab
+  artifactKey: Guid(1faffaaa93b91e343a5cd4e5941c0848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/prefabs/Cube (2).prefab using Guid(1faffaaa93b91e343a5cd4e5941c0848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cd8bcf45e2005be4e8de0312eee85bf') in 0.055625 seconds
+  Import took 0.057525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.357992 seconds.
+  path: Assets/ducktective project/prefabs/Cube (3).prefab
+  artifactKey: Guid(6c1d23682908cdb4e979e705f21cecbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/prefabs/Cube (3).prefab using Guid(6c1d23682908cdb4e979e705f21cecbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45ebfca58fb3fcfd4e338d9a61246485') in 0.013270 seconds
+  Import took 0.016418 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000758 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.041 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1258 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.8 MB.
+System memory in use after: 77.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1748.
+Total: 1.472600 ms (FindLiveObjects: 0.130500 ms CreateObjectMapping: 0.047100 ms MarkObjects: 1.225100 ms  DeleteObjects: 0.068500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000745 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.731 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1258 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.8 MB.
+System memory in use after: 77.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1751.
+Total: 1.681700 ms (FindLiveObjects: 0.152400 ms CreateObjectMapping: 0.034900 ms MarkObjects: 1.392300 ms  DeleteObjects: 0.101200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000752 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.224 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1258 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.8 MB.
+System memory in use after: 77.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1754.
+Total: 1.540000 ms (FindLiveObjects: 0.119800 ms CreateObjectMapping: 0.034800 ms MarkObjects: 1.307000 ms  DeleteObjects: 0.076900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000725 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.779 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1258 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.8 MB.
+System memory in use after: 77.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1757.
+Total: 1.660900 ms (FindLiveObjects: 0.126800 ms CreateObjectMapping: 0.033700 ms MarkObjects: 1.396600 ms  DeleteObjects: 0.102800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000750 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.749 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1258 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.8 MB.
+System memory in use after: 77.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1760.
+Total: 1.534000 ms (FindLiveObjects: 0.129400 ms CreateObjectMapping: 0.039400 ms MarkObjects: 1.302700 ms  DeleteObjects: 0.061500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000773 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.764 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1258 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.8 MB.
+System memory in use after: 77.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1763.
+Total: 1.492100 ms (FindLiveObjects: 0.122700 ms CreateObjectMapping: 0.035200 ms MarkObjects: 1.254800 ms  DeleteObjects: 0.078100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000980 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.799 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1258 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.8 MB.
+System memory in use after: 77.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1766.
+Total: 1.442500 ms (FindLiveObjects: 0.118800 ms CreateObjectMapping: 0.051500 ms MarkObjects: 1.201900 ms  DeleteObjects: 0.069300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 774.260982 seconds.
+  path: Assets/ducktective project/Scripts/inimigos/ratoParado.cs
+  artifactKey: Guid(cc041ca0f6e68fe46a237f22853666d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/inimigos/ratoParado.cs using Guid(cc041ca0f6e68fe46a237f22853666d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db1214a08f9197729c3dc0637f2a99b5') in 0.011018 seconds
+  Import took 0.013740 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000823 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.760 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1259 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 77.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1770.
+Total: 1.510200 ms (FindLiveObjects: 0.129500 ms CreateObjectMapping: 0.036000 ms MarkObjects: 1.279700 ms  DeleteObjects: 0.064100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.477725 seconds.
+  path: Assets/ducktective project/Scripts/inimigos/ratoParado.cs
+  artifactKey: Guid(cc041ca0f6e68fe46a237f22853666d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/inimigos/ratoParado.cs using Guid(cc041ca0f6e68fe46a237f22853666d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b2a4045afc652fd54e02b1df1c75f4c') in 0.005905 seconds
+  Import took 0.024379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014243 seconds.
+  path: Assets/ducktective project/Scripts/inimigos/ratoParado.cs
+  artifactKey: Guid(cc041ca0f6e68fe46a237f22853666d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/inimigos/ratoParado.cs using Guid(cc041ca0f6e68fe46a237f22853666d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b2a4045afc652fd54e02b1df1c75f4c') in 0.003162 seconds
+  Import took 0.005246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.924119 seconds.
+  path: Assets/ducktective project/Scripts/inimigos/ratoParado.cs
+  artifactKey: Guid(cc041ca0f6e68fe46a237f22853666d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/inimigos/ratoParado.cs using Guid(cc041ca0f6e68fe46a237f22853666d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55715c3e5de37939c6f099e510217b5a') in 0.005475 seconds
+  Import took 0.017644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.083375 seconds.
+  path: Assets/ducktective project/Scripts/inimigos/ratoParado.cs
+  artifactKey: Guid(cc041ca0f6e68fe46a237f22853666d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/inimigos/ratoParado.cs using Guid(cc041ca0f6e68fe46a237f22853666d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1568ff877aae1ca412effe0624506e47') in 0.006456 seconds
+  Import took 0.008673 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001325 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.269 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1259 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1773.
+Total: 2.049000 ms (FindLiveObjects: 0.270500 ms CreateObjectMapping: 0.059800 ms MarkObjects: 1.611300 ms  DeleteObjects: 0.106200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.650024 seconds.
+  path: Assets/ducktective project/Scripts/inimigos/ratoParado.cs
+  artifactKey: Guid(cc041ca0f6e68fe46a237f22853666d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/inimigos/ratoParado.cs using Guid(cc041ca0f6e68fe46a237f22853666d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02744b77515fcb28505919b3f24a83b5') in 0.006587 seconds
+  Import took 0.028336 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000763 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.732 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1259 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1776.
+Total: 1.568700 ms (FindLiveObjects: 0.139600 ms CreateObjectMapping: 0.039400 ms MarkObjects: 1.313800 ms  DeleteObjects: 0.074600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 575.315131 seconds.
+  path: Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs
+  artifactKey: Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs using Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9f5f455f264fba16efcc785d60010f5') in 0.007849 seconds
+  Import took 0.010176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.518181 seconds.
+  path: Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs
+  artifactKey: Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs using Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e668e8e80e659ca7ab70eeba73f5894') in 0.004327 seconds
+  Import took 0.006404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.561647 seconds.
+  path: Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs
+  artifactKey: Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs using Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5bfc0bbe83600c74795c1dea0015cc3') in 0.005935 seconds
+  Import took 0.008405 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000736 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.797 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1259 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1779.
+Total: 1.842900 ms (FindLiveObjects: 0.114300 ms CreateObjectMapping: 0.032000 ms MarkObjects: 1.590100 ms  DeleteObjects: 0.105600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.233456 seconds.
+  path: Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs
+  artifactKey: Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs using Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9827a8a74707eddb8fb9469de6c06858') in 0.004915 seconds
+  Import took 0.014068 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000942 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.794 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1259 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1782.
+Total: 1.503800 ms (FindLiveObjects: 0.120800 ms CreateObjectMapping: 0.037100 ms MarkObjects: 1.277100 ms  DeleteObjects: 0.068000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.538600 seconds.
+  path: Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs
+  artifactKey: Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs using Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c9a84cd769d60c94fe947c5944e882b') in 0.005336 seconds
+  Import took 0.073234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.013076 seconds.
+  path: Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs
+  artifactKey: Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs using Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c9a84cd769d60c94fe947c5944e882b') in 0.003435 seconds
+  Import took 0.005284 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000837 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.774 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1259 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1785.
+Total: 1.426200 ms (FindLiveObjects: 0.126100 ms CreateObjectMapping: 0.035200 ms MarkObjects: 1.201200 ms  DeleteObjects: 0.062700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.590600 seconds.
+  path: Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs
+  artifactKey: Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs using Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7531a0f1e227f0426a5e2f945f66fdee') in 0.005045 seconds
+  Import took 0.006985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.114839 seconds.
+  path: Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs
+  artifactKey: Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs using Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7531a0f1e227f0426a5e2f945f66fdee') in 0.003487 seconds
+  Import took 0.005647 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000808 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.781 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1259 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1788.
+Total: 2.792200 ms (FindLiveObjects: 0.133600 ms CreateObjectMapping: 0.040100 ms MarkObjects: 2.530600 ms  DeleteObjects: 0.086600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.296907 seconds.
+  path: Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs
+  artifactKey: Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs using Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f5cc4d5a791239bfb67121442122032') in 0.008719 seconds
+  Import took 0.010980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.980635 seconds.
+  path: Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs
+  artifactKey: Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs using Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f5cc4d5a791239bfb67121442122032') in 0.003569 seconds
+  Import took 0.005477 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000781 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.782 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1259 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1791.
+Total: 2.099600 ms (FindLiveObjects: 0.119600 ms CreateObjectMapping: 0.032000 ms MarkObjects: 1.844800 ms  DeleteObjects: 0.102000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.979420 seconds.
+  path: Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs
+  artifactKey: Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/Player/ThirdPersonMovement.cs using Guid(fc52c993d1b2eaf4381dae4f955db88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b214e78d210684d9ddfc594478c7547a') in 0.005218 seconds
+  Import took 0.007173 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000813 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.805 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1259 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1794.
+Total: 1.727400 ms (FindLiveObjects: 0.315000 ms CreateObjectMapping: 0.061900 ms MarkObjects: 1.289400 ms  DeleteObjects: 0.060200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000719 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.788 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1259 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1797.
+Total: 1.620400 ms (FindLiveObjects: 0.135500 ms CreateObjectMapping: 0.038100 ms MarkObjects: 1.346600 ms  DeleteObjects: 0.099200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000892 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.780 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1259 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1800.
+Total: 1.715000 ms (FindLiveObjects: 0.146800 ms CreateObjectMapping: 0.114200 ms MarkObjects: 1.370500 ms  DeleteObjects: 0.082000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000729 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.904 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1259 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1803.
+Total: 1.564200 ms (FindLiveObjects: 0.122700 ms CreateObjectMapping: 0.032800 ms MarkObjects: 1.315200 ms  DeleteObjects: 0.092800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000842 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.757 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1259 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1806.
+Total: 2.065300 ms (FindLiveObjects: 0.152400 ms CreateObjectMapping: 0.051400 ms MarkObjects: 1.779600 ms  DeleteObjects: 0.081000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000729 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.882 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1259 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1809.
+Total: 1.534500 ms (FindLiveObjects: 0.134100 ms CreateObjectMapping: 0.032500 ms MarkObjects: 1.266900 ms  DeleteObjects: 0.099900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000811 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.746 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1259 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1812.
+Total: 1.885400 ms (FindLiveObjects: 0.180500 ms CreateObjectMapping: 0.049300 ms MarkObjects: 1.559200 ms  DeleteObjects: 0.095100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000928 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.810 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1259 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1815.
+Total: 1.396400 ms (FindLiveObjects: 0.125600 ms CreateObjectMapping: 0.040000 ms MarkObjects: 1.172600 ms  DeleteObjects: 0.057400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
