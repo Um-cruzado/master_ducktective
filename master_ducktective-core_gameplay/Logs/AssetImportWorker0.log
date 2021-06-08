@@ -1,0 +1,327 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.985; Version 2009; 64bit' Language: 'en' Physical Memory: 16235 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Titan/Desktop/master_ducktective-core_gameplay
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63955
+Successfully changed project path to: C:/Users/Titan/Desktop/master_ducktective-core_gameplay
+C:/Users/Titan/Desktop/master_ducktective-core_gameplay
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 92.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Titan/Desktop/master_ducktective-core_gameplay/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x3ea0)
+    Vendor:   
+    VRAM:     8117 MB
+    Driver:   27.20.100.8681
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56280
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005174 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 68.13 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.886 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002431 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.377 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
+Refreshing native plugins compatible for Editor in 1.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1268 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.3 MB.
+System memory in use after: 74.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1728.
+Total: 9.296400 ms (FindLiveObjects: 0.379800 ms CreateObjectMapping: 0.126900 ms MarkObjects: 8.287000 ms  DeleteObjects: 0.498000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/ducktective project/Scripts/Player/Bullet.cs
+  artifactKey: Guid(d646e5ffeb5c27246b0a76a2e4ece98c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/Player/Bullet.cs using Guid(d646e5ffeb5c27246b0a76a2e4ece98c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19ec7399e7553845f82bdbb614ff449d') in 0.400297 seconds
+  Import took 0.408116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000706 seconds.
+  path: Assets/ducktective project/Scripts/Player/playerJump.cs
+  artifactKey: Guid(2779ae61f11d6594f8682aaa950d635c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/Player/playerJump.cs using Guid(2779ae61f11d6594f8682aaa950d635c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb8420a1b65c89fbb3ec99a5e253b596') in 0.024870 seconds
+  Import took 0.032107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 977.295064 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6500b8d69ab866ed606a00c2328abb4') in 0.086559 seconds
+  Import took 0.099814 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001814 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.371 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.2 MB.
+System memory in use after: 74.2 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1731.
+Total: 4.061500 ms (FindLiveObjects: 0.366400 ms CreateObjectMapping: 0.226300 ms MarkObjects: 3.366700 ms  DeleteObjects: 0.099500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2151.952034 seconds.
+  path: Assets/ducktective project/textureexplosion.jpg
+  artifactKey: Guid(b78faf54c5d57fd40845cf7e0a223b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/textureexplosion.jpg using Guid(b78faf54c5d57fd40845cf7e0a223b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4fd4550fadba67f8556886c97d3d1ec') in 0.261906 seconds
+  Import took 0.269379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 275.721848 seconds.
+  path: Assets/ducktective project/New Material.mat
+  artifactKey: Guid(6605bb588df8d6445b81981d7420f77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/New Material.mat using Guid(6605bb588df8d6445b81981d7420f77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b17137e9b79e4ee550795873f1891d1c') in 1.326321 seconds
+  Import took 1.331683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5349.581580 seconds.
+  path: Assets/ducktective project/textureexplosion.jpg
+  artifactKey: Guid(b78faf54c5d57fd40845cf7e0a223b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/textureexplosion.jpg using Guid(b78faf54c5d57fd40845cf7e0a223b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1c82bd3a0010cbdb3569ea6e48ced5e') in 0.037698 seconds
+  Import took 0.057338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.570837 seconds.
+  path: Assets/ducktective project/textureexplosion.png
+  artifactKey: Guid(de32d20936a27c644a52c7cdcc7e7eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/textureexplosion.png using Guid(de32d20936a27c644a52c7cdcc7e7eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cbcf64d1a5f5e29b9127c092f1e69be') in 0.024907 seconds
+  Import took 0.028733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 347.177130 seconds.
+  path: Assets/ducktective project/textureexplosion.png
+  artifactKey: Guid(de32d20936a27c644a52c7cdcc7e7eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/textureexplosion.png using Guid(de32d20936a27c644a52c7cdcc7e7eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bcbc81f9bc5c4c3a4f8122d802b0d57') in 0.031683 seconds
+  Import took 0.034591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.643381 seconds.
+  path: Assets/ducktective project/textureexplosion.png
+  artifactKey: Guid(de32d20936a27c644a52c7cdcc7e7eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/textureexplosion.png using Guid(de32d20936a27c644a52c7cdcc7e7eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19f1eea0316ce60fc0e3f7d1a15d4fc8') in 0.015628 seconds
+  Import took 0.018507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016946 seconds.
+  path: Assets/ducktective project/textureexplosion.png
+  artifactKey: Guid(de32d20936a27c644a52c7cdcc7e7eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/textureexplosion.png using Guid(de32d20936a27c644a52c7cdcc7e7eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19f1eea0316ce60fc0e3f7d1a15d4fc8') in 0.023935 seconds
+  Import took 0.028692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.910844 seconds.
+  path: Assets/ducktective project/textureexplosion.png
+  artifactKey: Guid(de32d20936a27c644a52c7cdcc7e7eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/textureexplosion.png using Guid(de32d20936a27c644a52c7cdcc7e7eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c536a7f76a20b87a42754f4954419316') in 0.020818 seconds
+  Import took 0.023792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 155.033567 seconds.
+  path: Assets/ducktective project/CSP_11012w_setup.exe
+  artifactKey: Guid(d47df54d98b7adc40b7d8abbffa8308e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/CSP_11012w_setup.exe using Guid(d47df54d98b7adc40b7d8abbffa8308e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b73bf14391fbbbe556e755c359f748a7') in 0.015544 seconds
+  Import took 0.018584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 167.484104 seconds.
+  path: Assets/ducktective project/prefabs/Explosion Particle.prefab
+  artifactKey: Guid(bcee105b7f1c93541a477204df6930e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/prefabs/Explosion Particle.prefab using Guid(bcee105b7f1c93541a477204df6930e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69767a15aadc7fc02be713fcb16cda2f') in 0.168861 seconds
+  Import took 0.173428 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000849 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.446 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.6 MB.
+System memory in use after: 77.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1775.
+Total: 2.521100 ms (FindLiveObjects: 0.171800 ms CreateObjectMapping: 0.045000 ms MarkObjects: 2.233600 ms  DeleteObjects: 0.069100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.290292 seconds.
+  path: Assets/ducktective project/Scripts/Player/Bullet.cs
+  artifactKey: Guid(d646e5ffeb5c27246b0a76a2e4ece98c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/Player/Bullet.cs using Guid(d646e5ffeb5c27246b0a76a2e4ece98c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a38817310887cfe1ae973f56de61f38') in 0.009319 seconds
+  Import took 0.011643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022801 seconds.
+  path: Assets/ducktective project/Scripts/Player/Bullet.cs
+  artifactKey: Guid(d646e5ffeb5c27246b0a76a2e4ece98c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/Player/Bullet.cs using Guid(d646e5ffeb5c27246b0a76a2e4ece98c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a38817310887cfe1ae973f56de61f38') in 0.003754 seconds
+  Import took 0.006312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.396757 seconds.
+  path: Assets/Tree_Textures
+  artifactKey: Guid(22a9509119812b0479e70d60f08c6983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tree_Textures using Guid(22a9509119812b0479e70d60f08c6983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2b52850b0bb9dbd0acd0a33ad920b6f') in 0.015020 seconds
+  Import took 0.017398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.535653 seconds.
+  path: Assets/ducktective project/prefabs/Projectile.prefab
+  artifactKey: Guid(36ef74ed6f2bdcd4da4af12c2c96f39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/prefabs/Projectile.prefab using Guid(36ef74ed6f2bdcd4da4af12c2c96f39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ce45fc895de53d9f8d7d91db2c7f290') in 1.114493 seconds
+  Import took 1.117060 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000782 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.942 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.6 MB.
+System memory in use after: 77.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1780.
+Total: 2.763000 ms (FindLiveObjects: 0.191200 ms CreateObjectMapping: 0.101200 ms MarkObjects: 2.392400 ms  DeleteObjects: 0.074100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.016311 seconds.
+  path: Assets/ducktective project/prefabs/Projectile.prefab
+  artifactKey: Guid(36ef74ed6f2bdcd4da4af12c2c96f39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/prefabs/Projectile.prefab using Guid(36ef74ed6f2bdcd4da4af12c2c96f39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0f35eb5e8080a2136df19251a85ebf3') in 8.100800 seconds
+  Import took 8.133075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/ducktective project/prefabs/Projectile.prefab
+  artifactKey: Guid(36ef74ed6f2bdcd4da4af12c2c96f39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/prefabs/Projectile.prefab using Guid(36ef74ed6f2bdcd4da4af12c2c96f39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51ce057c6b760258f616263b11a119fc') in 0.014874 seconds
+  Import took 0.017213 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000822 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.899 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1261 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.6 MB.
+System memory in use after: 77.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1784.
+Total: 2.777500 ms (FindLiveObjects: 0.227600 ms CreateObjectMapping: 0.076800 ms MarkObjects: 2.409000 ms  DeleteObjects: 0.062300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 583.300258 seconds.
+  path: Assets/ducktective project/New Material.mat
+  artifactKey: Guid(6605bb588df8d6445b81981d7420f77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/New Material.mat using Guid(6605bb588df8d6445b81981d7420f77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23a2850101405b58b834e97f81aa2baa') in 2.118446 seconds
+  Import took 2.156412 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
