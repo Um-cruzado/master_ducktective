@@ -1,0 +1,10 @@
+Idle 1 = 2 -> 27
+Idle 2 = 28 -> 65
+Pulo = 66 -> 78
+Ascensão = 78 -> 89
+Começando cair = 90 -> 99
+Caindo = 99 -> 112
+Aterrisagem = 113 -> 123
+Correndo = 124 -> 138
+Ataque = 140 -> 150
+Morte = 152 -> 166
