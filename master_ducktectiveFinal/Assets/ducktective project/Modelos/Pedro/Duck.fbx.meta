@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 96b06158675eb4b4c99e61a2b74f1f6a
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 6721458310439393509
+    second: "Arma\xE7\xE3o|Arma\xE7\xE3oAction"
+  - first:
+      74: 5744140648836863589
+    second: "Arma\xE7\xE3o|PoseLib"
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: "Arma\xE7\xE3o|Arma\xE7\xE3oAction"
+      takeName: "Arma\xE7\xE3o|Arma\xE7\xE3oAction"
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 164
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Duck(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cilindro
+      parentName: Duck(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 100, y: 100, z: 100}
+    - name: "Arma\xE7\xE3o"
+      parentName: Duck(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Corpo
+      parentName: "Arma\xE7\xE3o"
+      position: {x: 0, y: -0.0000000011920929, z: 0.013962829}
+      rotation: {x: 0.7071068, y: 1.4791142e-31, z: -1.0106721e-24, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Asa.L
+      parentName: Corpo
+      position: {x: -0.0056315386, y: 0.011241087, z: -0.0008576919}
+      rotation: {x: -0.0009317845, y: 0.70710593, z: 0.7071063, w: 0.0010072786}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: "Bra\xE7o1.L"
+      parentName: Asa.L
+      position: {x: -8.586357e-10, y: 0.008392588, z: -2.6835947e-10}
+      rotation: {x: -0.00003714429, y: 0.000038027767, z: -0.68088657, w: 0.7323889}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.99999994}
+    - name: "Bra\xE7o2.L"
+      parentName: "Bra\xE7o1.L"
+      position: {x: 3.72529e-10, y: 0.0028239451, z: -3.352761e-10}
+      rotation: {x: 0.00000043484215, y: 0.000000028405339, z: -0.019670574, w: 0.9998066}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+    - name: "Bra\xE7o3.L"
+      parentName: "Bra\xE7o2.L"
+      position: {x: 8.1956386e-10, y: 0.0032633399, z: -0.000000001117587}
+      rotation: {x: -0.0000011702751, y: -0.00000021433844, z: -0.04968234, w: 0.9987651}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.0000001}
+    - name: "Bra\xE7o4.L"
+      parentName: "Bra\xE7o3.L"
+      position: {x: -4.691537e-10, y: 0.0029062198, z: -6.6651407e-10}
+      rotation: {x: 0.00000017010119, y: 0.0000000069368857, z: 0.0029652747, w: 0.99999565}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000004}
+    - name: Ponta.L
+      parentName: "Bra\xE7o4.L"
+      position: {x: -2.6077032e-10, y: 0.0035158119, z: 7.45058e-10}
+      rotation: {x: -0.000000041801723, y: 0.00000004164217, z: 0.0022473212, w: 0.9999975}
+      scale: {x: 1.000001, y: 1, z: 1.0000004}
+    - name: Ponta.L_end
+      parentName: Ponta.L
+      position: {x: -0, y: 0.02105823, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_Pena4.L
+      parentName: "Bra\xE7o4.L"
+      position: {x: 0.009075986, y: -0.0012866308, z: -0.0007036446}
+      rotation: {x: 0.5168231, y: -0.48258913, z: -0.48259136, w: 0.5168241}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Pena4.L
+      parentName: CTRL_Pena4.L
+      position: {x: 2.0489097e-10, y: 0.0000000013131648, z: 4.1909514e-11}
+      rotation: {x: -0.65995675, y: 0.2538842, z: 0.25388482, w: 0.6599565}
+      scale: {x: 0.99999994, y: 0.9999997, z: 1.0000001}
+    - name: Pena4.L_end
+      parentName: Pena4.L
+      position: {x: -0, y: 0.0109715, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_Pena5.L
+      parentName: "Bra\xE7o4.L"
+      position: {x: 0.007431472, y: -0.000177491, z: 0.00013602249}
+      rotation: {x: 0.5141906, y: -0.48539287, z: -0.48539528, w: 0.5141918}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.0000004}
+    - name: Pena5.L
+      parentName: CTRL_Pena5.L
+      position: {x: 0.000000001117587, y: 0.0000000014528632, z: -6.705522e-10}
+      rotation: {x: -0.61254716, y: 0.3532505, z: 0.35325122, w: 0.61254686}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000001}
+    - name: Pena5.L_end
+      parentName: Pena5.L
+      position: {x: -0, y: 0.014338426, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_Pena6.L
+      parentName: "Bra\xE7o4.L"
+      position: {x: 0.0063769887, y: 0.00032605487, z: 0.0005079895}
+      rotation: {x: 0.51733756, y: -0.4820375, z: -0.48203993, w: 0.5173386}
+      scale: {x: 0.99999976, y: 1.0000005, z: 1.0000002}
+    - name: Pena6.L
+      parentName: CTRL_Pena6.L
+      position: {x: -5.2154064e-10, y: 0.000000001527369, z: 1.4901161e-10}
+      rotation: {x: -0.5637022, y: 0.4268954, z: 0.42689636, w: 0.5637018}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000001}
+    - name: Pena6.L_end
+      parentName: Pena6.L
+      position: {x: -0, y: 0.018296583, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_Pena3.L
+      parentName: "Bra\xE7o3.L"
+      position: {x: 0.009011232, y: -0.0006116253, z: -0.000794767}
+      rotation: {x: 0.5172754, y: -0.48210445, z: -0.48210675, w: 0.5172761}
+      scale: {x: 0.9999997, y: 1.0000002, z: 0.9999999}
+    - name: Pena3.L
+      parentName: CTRL_Pena3.L
+      position: {x: -0.0000000010058283, y: -0.0000000011408702, z: 0.00000000229571}
+      rotation: {x: -0.70383346, y: 0.1320164, z: 0.13566834, w: 0.68467826}
+      scale: {x: 1, y: 0.9999998, z: 0.9999999}
+    - name: Pena3.L_end
+      parentName: Pena3.L
+      position: {x: -0, y: 0.009677725, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_Pena2.L
+      parentName: "Bra\xE7o2.L"
+      position: {x: 0.0081746215, y: 0.000062117724, z: -0.00077738514}
+      rotation: {x: 0.49129707, y: -0.5085527, z: -0.5085534, w: 0.49129912}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999999}
+    - name: Pena2.L
+      parentName: CTRL_Pena2.L
+      position: {x: -3.352761e-10, y: -7.45058e-10, z: 6.705522e-10}
+      rotation: {x: -0.7284398, y: 0.058829755, z: 0.06279192, w: 0.67968506}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.99999994}
+    - name: Pena2.L_end
+      parentName: Pena2.L
+      position: {x: -0, y: 0.009444741, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_Pena1.L
+      parentName: "Bra\xE7o1.L"
+      position: {x: 0.0076205204, y: 0.0007293315, z: -0.0005176606}
+      rotation: {x: 0.4812756, y: -0.5180467, z: -0.518048, w: 0.48127714}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000002}
+    - name: Pena1.L
+      parentName: CTRL_Pena1.L
+      position: {x: -6.705522e-10, y: 0.0000000017695129, z: 3.352761e-10}
+      rotation: {x: -0.76305556, y: 0.012973992, z: 0.015272049, w: 0.64602214}
+      scale: {x: 0.99999994, y: 1.0000004, z: 1.0000004}
+    - name: Pena1.L_end
+      parentName: Pena1.L
+      position: {x: -0, y: 0.009569864, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Quilha
+      parentName: Corpo
+      position: {x: 9.851999e-16, y: -0.0012457776, z: -0.0010832393}
+      rotation: {x: 0.000003651735, y: 0.004716814, z: 0.9999889, w: 0.000000017224695}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.998747}
+    - name: SuporteT.L
+      parentName: Quilha
+      position: {x: 0.0036509347, y: 0.004710554, z: -0.00034799232}
+      rotation: {x: -0.06624978, y: -0.8613213, z: -0.49944934, w: -0.06547579}
+      scale: {x: 0.9999997, y: 1, z: 0.9999999}
+    - name: SuporteF.L
+      parentName: SuporteT.L
+      position: {x: 0.0000000012503005, y: 0.0017671826, z: -0.0000000017741695}
+      rotation: {x: -0.012221085, y: 0.0003333464, z: -0.008452023, w: 0.99988955}
+      scale: {x: 0.9999987, y: 0.9999938, z: 1.0000074}
+    - name: SuporteF.L_end
+      parentName: SuporteF.L
+      position: {x: -0, y: 0.001976531, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Coxa.L
+      parentName: SuporteT.L
+      position: {x: 0.0000000010908116, y: 0.0017671821, z: -5.867332e-10}
+      rotation: {x: 0.574226, y: 0.06482614, z: -0.053041272, w: 0.8144008}
+      scale: {x: 0.9999943, y: 1.0002754, z: 0.99972343}
+    - name: Canela.L
+      parentName: Coxa.L
+      position: {x: -8.422648e-10, y: 0.0035206447, z: 7.916242e-11}
+      rotation: {x: 0.025096681, y: -0.0001957975, z: 0.008160575, w: 0.99965173}
+      scale: {x: 0.99999964, y: 0.99984664, z: 1.0001823}
+    - name: Calcanhar.L
+      parentName: Canela.L
+      position: {x: 8.381903e-11, y: 0.0032106112, z: 6.530899e-10}
+      rotation: {x: -0.6486555, y: -0.068734616, z: 0.048118223, w: 0.75644314}
+      scale: {x: 0.9999338, y: 1.0004969, z: 0.9983203}
+    - name: UnhaC.L
+      parentName: Calcanhar.L
+      position: {x: 1.4901161e-10, y: 0.0008561361, z: 7.4505804e-11}
+      rotation: {x: -0.005864146, y: 0.9778071, z: -0.18372463, w: -0.10051969}
+      scale: {x: 0.99999005, y: 1.0003626, z: 0.99964744}
+    - name: UnhaC.L_end
+      parentName: UnhaC.L
+      position: {x: -0, y: 0.0052816216, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UnhaI.L
+      parentName: Calcanhar.L
+      position: {x: 1.4901161e-10, y: 0.0008561361, z: 7.4505804e-11}
+      rotation: {x: -0.21228522, y: 0.017011903, z: -0.2680152, w: 0.93958163}
+      scale: {x: 1.0001252, y: 1.0002543, z: 0.99962085}
+    - name: UnhaI.L_end
+      parentName: UnhaI.L
+      position: {x: -0, y: 0.005704827, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UnhaE.L
+      parentName: Calcanhar.L
+      position: {x: 1.4901161e-10, y: 0.0008561361, z: 7.4505804e-11}
+      rotation: {x: -0.09973711, y: -0.014823109, z: 0.29734877, w: 0.94942963}
+      scale: {x: 0.9999344, y: 1.0002545, z: 0.9998113}
+    - name: UnhaE.L_end
+      parentName: UnhaE.L
+      position: {x: -0, y: 0.005631238, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SuporteT.R
+      parentName: Quilha
+      position: {x: -0.0036509382, y: 0.004710554, z: -0.00034793894}
+      rotation: {x: -0.011215293, y: -0.8601729, z: -0.5053079, w: -0.06812271}
+      scale: {x: 0.99999946, y: 1.0000001, z: 0.99999994}
+    - name: SuporteF.R
+      parentName: SuporteT.R
+      position: {x: 3.4488037e-10, y: 0.0017671817, z: -9.778887e-11}
+      rotation: {x: -0.009008456, y: 0.00030431148, z: 0.011814976, w: 0.9998896}
+      scale: {x: 1.0000004, y: 0.9999942, z: 1.0000057}
+    - name: SuporteF.R_end
+      parentName: SuporteF.R
+      position: {x: -0, y: 0.0019765308, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Coxa.R
+      parentName: SuporteT.R
+      position: {x: -0.0000000012968666, y: 0.0017671817, z: -0.0000000023376197}
+      rotation: {x: 0.5777263, y: 0.061209925, z: -0.034260087, w: 0.81321096}
+      scale: {x: 0.99999774, y: 1.0002713, z: 0.9997254}
+    - name: Canela.R
+      parentName: Coxa.R
+      position: {x: -1.6298145e-10, y: 0.003520636, z: -3.678724e-10}
+      rotation: {x: 0.019906223, y: -0.00021313503, z: -0.017180655, w: 0.9996543}
+      scale: {x: 0.99999917, y: 0.9998809, z: 1.0001429}
+    - name: Calcanhar.R
+      parentName: Canela.R
+      position: {x: 3.259629e-11, y: 0.0032105863, z: -4.8894434e-11}
+      rotation: {x: -0.64111114, y: -0.08884133, z: 0.08782396, w: 0.7572125}
+      scale: {x: 0.9999222, y: 1.00052, z: 0.99830914}
+    - name: UnhaC.R
+      parentName: Calcanhar.R
+      position: {x: -0, y: 0.0008561204, z: 0.0000000017881393}
+      rotation: {x: -0.030737089, y: 0.97804767, z: -0.1812308, w: -0.098150335}
+      scale: {x: 0.99997944, y: 1.0003886, z: 0.9996333}
+    - name: UnhaC.R_end
+      parentName: UnhaC.R
+      position: {x: -0, y: 0.005281628, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UnhaI.R
+      parentName: Calcanhar.R
+      position: {x: -0, y: 0.0008561204, z: 0.0000000017881393}
+      rotation: {x: -0.13723928, y: 0.119083844, z: 0.3130847, w: 0.93218154}
+      scale: {x: 1.0000532, y: 1.0002892, z: 0.99965835}
+    - name: UnhaI.R_end
+      parentName: UnhaI.R
+      position: {x: -0, y: 0.0057072095, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UnhaE.R
+      parentName: Calcanhar.R
+      position: {x: -0, y: 0.0008561204, z: 0.0000000017881393}
+      rotation: {x: -0.23913795, y: -0.11907802, z: -0.2030182, w: 0.94202816}
+      scale: {x: 1.0002203, y: 1.0002503, z: 0.9995305}
+    - name: UnhaE.R_end
+      parentName: UnhaE.R
+      position: {x: -0, y: 0.005628991, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Espinha
+      parentName: Corpo
+      position: {x: -1.7944737e-34, y: 0.0062650796, z: 0}
+      rotation: {x: 0.3735517, y: -0.000000995211, z: -0.000000400775, w: 0.9276094}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: Coracoide
+      parentName: Espinha
+      position: {x: -3.4618358e-16, y: 0.0071144584, z: -1.862645e-10}
+      rotation: {x: -0.39422452, y: 0.00000043821467, z: 0.00000065793074, w: 0.9190142}
+      scale: {x: 1, y: 1.0000007, z: 1.0000002}
+    - name: Peito
+      parentName: Coracoide
+      position: {x: 1.2504797e-15, y: 0.0047106254, z: 4.4703483e-10}
+      rotation: {x: -0.22127327, y: 0.00000046501742, z: 0.00000015826636, w: 0.9752119}
+      scale: {x: 1, y: 1.0000005, z: 1.0000002}
+    - name: "Pesco\xE7o"
+      parentName: Peito
+      position: {x: -1.7485795e-16, y: 0.004876776, z: 5.9604643e-10}
+      rotation: {x: 0.012076376, y: -5.115907e-13, z: -0.0000000028793106, w: 0.9999271}
+      scale: {x: 1, y: 1.0000002, z: 0.9999998}
+    - name: "Cabe\xE7a"
+      parentName: "Pesco\xE7o"
+      position: {x: -2.0817549e-16, y: 0.008769356, z: -5.9604643e-10}
+      rotation: {x: 0.3972589, y: -0.0000000059790475, z: -0.0000001259322, w: 0.9177066}
+      scale: {x: 1, y: 0.9999997, z: 0.9999999}
+    - name: Rosto 1
+      parentName: "Cabe\xE7a"
+      position: {x: -1.0658141e-16, y: 0.0048242263, z: -2.2351748e-10}
+      rotation: {x: 0.5852848, y: -0.00000019331803, z: -0.00000027908658, w: 0.81082773}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: BicoBase
+      parentName: Rosto 1
+      position: {x: 8.477539e-10, y: 0.002648374, z: 0.0011704356}
+      rotation: {x: 0.0071302345, y: -0.00015833082, z: -0.0028810697, w: 0.99997044}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000002}
+    - name: "C\xE9uBase"
+      parentName: BicoBase
+      position: {x: 1.13504935e-11, y: 0.00064386416, z: -0.000000004011793}
+      rotation: {x: -0.54587555, y: 0.0014528375, z: 0.002231354, w: 0.837862}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1}
+    - name: "C\xE9u"
+      parentName: "C\xE9uBase"
+      position: {x: -6.9848415e-12, y: 0.0013889109, z: -5.2156446e-10}
+      rotation: {x: 0.6150862, y: -0.0000000025611373, z: -0.0000018944268, w: 0.7884599}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+    - name: "C\xE9u_end"
+      parentName: "C\xE9u"
+      position: {x: -0, y: 0.006249793, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "Ch\xE3o_Base"
+      parentName: BicoBase
+      position: {x: -7.275958e-12, y: 0.00064385944, z: -0.0000000025216635}
+      rotation: {x: 0.654864, y: -0.0017270959, z: 0.0019912573, w: 0.75574213}
+      scale: {x: 0.99999976, y: 0.9999998, z: 0.9999999}
+    - name: "Ch\xE3o"
+      parentName: "Ch\xE3o_Base"
+      position: {x: 8.731166e-12, y: 0.0007715009, z: 4.4703816e-10}
+      rotation: {x: -0.64183545, y: -0.00000046216877, z: 0.0000015598487, w: 0.76684237}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: "Ch\xE3o_end"
+      parentName: "Ch\xE3o"
+      position: {x: -0, y: 0.0057985964, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "Chap\xE9u"
+      parentName: "Cabe\xE7a"
+      position: {x: -0.0006206239, y: 0.006242055, z: -0.0017936646}
+      rotation: {x: -0.29444927, y: 0.00000011642842, z: 0.0000000432274, w: 0.9556671}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "Chap\xE9u_end"
+      parentName: "Chap\xE9u"
+      position: {x: -0, y: 0.0035134745, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Traseiro
+      parentName: Corpo
+      position: {x: -1.7944737e-34, y: 0.0062650796, z: 0}
+      rotation: {x: -0.818626, y: -1.7760244e-17, z: -4.5926596e-17, w: 0.57432705}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Cauda
+      parentName: Traseiro
+      position: {x: -2.212708e-25, y: 0.009741411, z: 1.4901161e-10}
+      rotation: {x: 0.4121341, y: 1.692329e-19, z: 8.1457994e-17, w: 0.9111232}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Cauda_end
+      parentName: Cauda
+      position: {x: -0, y: 0.015008596, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Asa.R
+      parentName: Corpo
+      position: {x: 0.0056315386, y: 0.011241087, z: -0.0008576919}
+      rotation: {x: 0.0009525709, y: 0.70710605, z: 0.7071062, w: -0.0009865424}
+      scale: {x: 1.0000008, y: 1.0000004, z: 1.0000005}
+    - name: "Bra\xE7o1.R"
+      parentName: Asa.R
+      position: {x: -1.9157596e-10, y: 0.008392588, z: -1.8339477e-10}
+      rotation: {x: -0.0000151602735, y: -0.000019162895, z: 0.6808885, w: 0.7323872}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000004}
+    - name: "Bra\xE7o2.R"
+      parentName: "Bra\xE7o1.R"
+      position: {x: -3.72529e-10, y: 0.0028239428, z: 2.9802322e-10}
+      rotation: {x: 0.000000037756763, y: 0.00000008166626, z: 0.01967001, w: 0.9998065}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000006}
+    - name: "Bra\xE7o3.R"
+      parentName: "Bra\xE7o2.R"
+      position: {x: 2.9802322e-10, y: 0.0032633406, z: -0.0000000012665987}
+      rotation: {x: -0.00000027231076, y: 0.000000044411145, z: -0.049679086, w: -0.9987653}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: "Bra\xE7o4.R"
+      parentName: "Bra\xE7o3.R"
+      position: {x: -8.381903e-11, y: 0.0029062175, z: -2.1827873e-10}
+      rotation: {x: 0.0000003315597, y: 0.00000015233282, z: -0.0029668245, w: 0.9999956}
+      scale: {x: 1.0000002, y: 1, z: 0.99999994}
+    - name: Ponta.R
+      parentName: "Bra\xE7o4.R"
+      position: {x: -3.352761e-10, y: 0.003515812, z: -9.685754e-10}
+      rotation: {x: -0.00000012751569, y: 0.000003317785, z: -0.002244609, w: 0.9999975}
+      scale: {x: 1.0000008, y: 1.0000004, z: 1.0000004}
+    - name: Ponta.R_end
+      parentName: Ponta.R
+      position: {x: -0, y: 0.02105823, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_Pena4.R
+      parentName: "Bra\xE7o4.R"
+      position: {x: -0.009037361, y: -0.0013212037, z: -0.0007035836}
+      rotation: {x: 0.51402694, y: 0.48556986, z: 0.48556817, w: 0.51402515}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: Pena4.R
+      parentName: CTRL_Pena4.R
+      position: {x: -4.6566128e-12, y: -5.448237e-10, z: 2.0605512e-10}
+      rotation: {x: -0.65716165, y: -0.26103422, z: -0.2610341, w: 0.6571613}
+      scale: {x: 1, y: 1.0000004, z: 1.0000004}
+    - name: Pena4.R_end
+      parentName: Pena4.R
+      position: {x: -0, y: 0.010851443, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_Pena5.R
+      parentName: "Bra\xE7o4.R"
+      position: {x: -0.00746333, y: -0.0001487631, z: 0.00013607169}
+      rotation: {x: 0.5166602, y: 0.4827668, z: 0.4827653, w: 0.5166586}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.0000004}
+    - name: Pena5.R
+      parentName: CTRL_Pena5.R
+      position: {x: -0.0000000011920929, y: -2.9802322e-10, z: -3.352761e-10}
+      rotation: {x: -0.6160444, y: -0.34711605, z: -0.3471162, w: 0.6160439}
+      scale: {x: 1.0000006, y: 1.0000008, z: 1.0000006}
+    - name: Pena5.R_end
+      parentName: Pena5.R
+      position: {x: -0, y: 0.014421655, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_Pena6.R
+      parentName: "Bra\xE7o4.R"
+      position: {x: -0.006324702, y: 0.00026428263, z: 0.00050803216}
+      rotation: {x: 0.5135087, y: 0.48611772, z: 0.48611617, w: 0.51350695}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000007}
+    - name: Pena6.R
+      parentName: CTRL_Pena6.R
+      position: {x: 1.4901161e-10, y: 1.862645e-10, z: -7.4505804e-11}
+      rotation: {x: -0.560307, y: -0.43134308, z: -0.43134263, w: 0.560306}
+      scale: {x: 1, y: 1.0000004, z: 1.0000002}
+    - name: Pena6.R_end
+      parentName: Pena6.R
+      position: {x: -0, y: 0.018296584, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_Pena3.R
+      parentName: "Bra\xE7o3.R"
+      position: {x: -0.008997774, y: -0.0006190102, z: -0.00079470436}
+      rotation: {x: 0.5164475, y: 0.48299488, z: 0.4829933, w: 0.5164451}
+      scale: {x: 1.0000002, y: 1, z: 1.0000001}
+    - name: Pena3.R
+      parentName: CTRL_Pena3.R
+      position: {x: 0.0000000011536758, y: -0.0000000014062971, z: 0.0000000013165118}
+      rotation: {x: -0.705059, y: -0.14069541, z: -0.12914917, w: 0.6829475}
+      scale: {x: 1, y: 0.9999998, z: 1.0000001}
+    - name: Pena3.R_end
+      parentName: Pena3.R
+      position: {x: -0, y: 0.009677721, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_Pena2.R
+      parentName: "Bra\xE7o2.R"
+      position: {x: -0.008196788, y: 0.000066255554, z: -0.000777329}
+      rotation: {x: -0.49320382, y: -0.5067068, z: -0.5067053, w: -0.49320182}
+      scale: {x: 0.9999999, y: 0.9999998, z: 1.0000001}
+    - name: Pena2.R
+      parentName: CTRL_Pena2.R
+      position: {x: 5.122274e-10, y: -8.9406965e-10, z: 1.862645e-10}
+      rotation: {x: -0.72929776, y: -0.063899636, z: -0.05188336, w: 0.67922735}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Pena2.R_end
+      parentName: Pena2.R
+      position: {x: -0, y: 0.009444741, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_Pena1.R
+      parentName: "Bra\xE7o1.R"
+      position: {x: -0.007631431, y: 0.0007264461, z: -0.0005176093}
+      rotation: {x: -0.4830662, y: -0.5163807, z: -0.51637906, w: -0.48306388}
+      scale: {x: 0.9999998, y: 1.0000002, z: 0.9999999}
+    - name: Pena1.R
+      parentName: CTRL_Pena1.R
+      position: {x: 0.0000000010710209, y: -4.0978193e-10, z: 5.2154064e-10}
+      rotation: {x: -0.76316524, y: -0.014558194, z: -0.008122147, w: 0.64598835}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Pena1.R_end
+      parentName: Pena1.R
+      position: {x: -0, y: 0.009569867, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_Mestre
+      parentName: "Arma\xE7\xE3o"
+      position: {x: 3.7215534e-18, y: -0.0047426587, z: -0.016760387}
+      rotation: {x: 1, y: -5.684342e-14, z: 0.00000067154434, w: -0.00000008940697}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: "CTRL_P\xE9.L"
+      parentName: CTRL_Mestre
+      position: {x: -0.0036636558, y: -0.0014441455, z: -0.00067957415}
+      rotation: {x: -0.9956495, y: 0.000000004605459, z: 0.09317723, w: 3.889681e-10}
+      scale: {x: 0.9999999, y: 0.9999995, z: 0.9999997}
+    - name: "CTRL_P\xE9.L_end"
+      parentName: "CTRL_P\xE9.L"
+      position: {x: -0, y: 0.0011, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "CTRL_P\xE9.R"
+      parentName: CTRL_Mestre
+      position: {x: 0.0036636575, y: -0.0014441455, z: -0.0006795643}
+      rotation: {x: -0.9956495, y: 0.000000004605459, z: 0.09317723, w: 3.889681e-10}
+      scale: {x: 0.9999999, y: 0.9999995, z: 0.9999997}
+    - name: "CTRL_P\xE9.R_end"
+      parentName: "CTRL_P\xE9.R"
+      position: {x: -0, y: 0.0011, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_Corpo
+      parentName: CTRL_Mestre
+      position: {x: 0.00000001672869, y: -0.004742659, z: -0.012455387}
+      rotation: {x: -0.7071068, y: -0.00000047485355, z: -0.00000047485355, w: 0.7071068}
+      scale: {x: 1, y: 0.99999946, z: 0.99999946}
+    - name: CTRL_Cauda
+      parentName: CTRL_Corpo
+      position: {x: 1.1568964e-15, y: 0.010176644, z: -0.022314303}
+      rotation: {x: 0.0034793313, y: 3.9790388e-13, z: -1.7053024e-13, w: 0.9999939}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: CTRL_Cauda_end
+      parentName: CTRL_Cauda
+      position: {x: -0, y: 0.003035638, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_pole_Joelho.L
+      parentName: CTRL_Corpo
+      position: {x: -0.0036988899, y: -0.00821537, z: 0.013100346}
+      rotation: {x: -0, y: -0.00000011920926, z: 2.842171e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_pole_Joelho.L_end
+      parentName: CTRL_pole_Joelho.L
+      position: {x: -0, y: 0.0022402524, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "CTRL_Cr\xE2nio"
+      parentName: CTRL_Corpo
+      position: {x: -0.008738492, y: 0.02252976, z: 0.013521716}
+      rotation: {x: 0.7071068, y: 0.000000643441, z: 0.000000643441, w: 0.7071068}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: "CTRL_C\xE9uBase"
+      parentName: "CTRL_Cr\xE2nio"
+      position: {x: 0.008738492, y: 0.003936106, z: -0.00026218293}
+      rotation: {x: -0.70710677, y: 0.7071068, z: -0.00000065565104, w: 0.00000064344096}
+      scale: {x: 0.9999998, y: 1, z: 0.9999999}
+    - name: "CTRL_C\xE9uBase_end"
+      parentName: "CTRL_C\xE9uBase"
+      position: {x: -0, y: 0.003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "CTRL_Ch\xE3oBase"
+      parentName: "CTRL_Cr\xE2nio"
+      position: {x: 0.008738489, y: 0.002918831, z: 0.0015562105}
+      rotation: {x: -0.70710677, y: 0.7066564, z: 0.0000013709067, w: 0.025236264}
+      scale: {x: 0.9999996, y: 1.0000004, z: 0.9999996}
+    - name: "CTRL_Ch\xE3oBase_end"
+      parentName: "CTRL_Ch\xE3oBase"
+      position: {x: -0, y: 0.0028017848, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "CTRL_Pesco\xE7o"
+      parentName: "CTRL_Cr\xE2nio"
+      position: {x: 0.008738487, y: -0.0025249647, z: 0.002744795}
+      rotation: {x: -1, y: -0, z: -0.0000007907537, w: 0}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: "CTRL_Pesco\xE7o_end"
+      parentName: "CTRL_Pesco\xE7o"
+      position: {x: -0, y: 0.005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_pole_Joelho.R
+      parentName: CTRL_Corpo
+      position: {x: 0.0036988899, y: -0.00821537, z: 0.013100346}
+      rotation: {x: -0, y: -0.00000011920926, z: 2.842171e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_pole_Joelho.R_end
+      parentName: CTRL_pole_Joelho.R
+      position: {x: -0, y: 0.0022402524, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_Dobra.L
+      parentName: CTRL_Corpo
+      position: {x: -0.007828801, y: 0.00087002874, z: 0.010945297}
+      rotation: {x: -0, y: 0.6987592, z: -0, w: 0.71535707}
+      scale: {x: 1.0000006, y: 1.0000007, z: 0.99999976}
+    - name: CTRL_Dobra.L_end
+      parentName: CTRL_Dobra.L
+      position: {x: -0, y: 0.004, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CTRL_Dobra.R
+      parentName: CTRL_Corpo
+      position: {x: 0.00816607, y: 0.0005830061, z: 0.010527113}
+      rotation: {x: -0, y: 0.6987592, z: -0, w: 0.71535707}
+      scale: {x: 1.0000002, y: 1.0000005, z: 0.99999994}
+    - name: CTRL_Dobra.R_end
+      parentName: CTRL_Dobra.R
+      position: {x: -0, y: 0.004, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "C\xEDrculo"
+      parentName: Duck(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Asa
+      parentName: Duck(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Principal
+      parentName: Duck(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Rosto
+      parentName: Duck(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Dobra
+      parentName: Duck(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Joelho
+      parentName: Duck(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: "P\xE9"
+      parentName: Duck(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Bico
+      parentName: Duck(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: "P\xE91"
+      parentName: Duck(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
